@@ -130,9 +130,9 @@ cd MallTrendX-Dashboard
 ## 📬 Contact
 
 **Vinayak Vathare**
-📧 Email: \[[your.email@example.com](mailto:your.email@example.com)]
-🔗 LinkedIn: [linkedin.com/in/yourprofile](#)
-💻 GitHub: [github.com/yourusername](#)
+📧 Email: [work.vinayakvathare@gmail.com](mailto:work.vinayakvathare@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/vinayakvathare](https://www.linkedin.com/in/vinayakvathare/)  
+💻 GitHub: [github.com/VathareVinayak](https://github.com/VathareVinayak)
 
 ---
 
