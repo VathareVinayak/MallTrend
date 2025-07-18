@@ -1,2 +1,1 @@
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-Report[[:space:]]Presentation.mp4 filter=lfs diff=lfs merge=lfs -text
+"Report Presentation.mp4" filter=lfs diff=lfs merge=lfs -text
